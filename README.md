@@ -15,7 +15,7 @@ The script is designed to be run directly from a URL using `bash` and `curl`.
 
 The script will validate `sudo` privileges early and prompt for a password if necessary. Upon successful completion, it will output a Hysteria 2 connection string.
 
-Script also updates System buffer sizes and Process priority for improved performance.
+Script also updates System buffer sizes and Process priority for improved hysteria2 performance.
 
 ---
 
