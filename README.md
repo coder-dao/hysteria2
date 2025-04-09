@@ -32,10 +32,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/coder-dao/hysteria2/refs/hea
 *Result:*
 
 ```md
---------------------------------------------------
 Hysteria Connection String:
 hysteria2://GENERATED_PASSWORD@SERVER_IPV4:443/?sni=bing.com&alpn=h3&insecure=1#Hysteria
---------------------------------------------------
 ```
 
 ---
@@ -52,10 +50,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/coder-dao/hysteria2/refs/hea
 
 *Result:*
 ```markdown
---------------------------------------------------
 Hysteria Connection String:
 hysteria2://GENERATED_PASSWORD@SERVER_IPV4:3333/?sni=bing.com&alpn=h3&insecure=1#Hysteria
---------------------------------------------------
 ```
 
 ---
@@ -72,10 +68,8 @@ bash <(curl -fsSL https://raw.githubusercontent.com/coder-dao/hysteria2/refs/hea
 
 *Result:*
 ```markdown
---------------------------------------------------
 Hysteria Connection String:
 hysteria2://GENERATED_PASSWORD@SERVER_IPV4:3333/?sni=my.custom.domain.com&alpn=h3&insecure=1#Hysteria
---------------------------------------------------
 ```
 ---
 
