@@ -15,6 +15,8 @@ The script is designed to be run directly from a URL using `bash` and `curl`.
 
 The script will validate `sudo` privileges early and prompt for a password if necessary. Upon successful completion, it will output a Hysteria 2 connection string.
 
+Script also updates System buffer sizes and Process priority for improved performance.
+
 ---
 
 # Commands Examples:
@@ -79,4 +81,4 @@ hysteria2://GENERATED_PASSWORD@SERVER_IPV4:3333/?sni=my.custom.domain.com&alpn=h
 
 `--domain` <domain_name>: Sets the domain used for the masquerade URL.
 
-*(Note: GENERATED_PASSWORD and SERVER_IPV4 in the result formats above
+*(Note: `GENERATED_PASSWORD` and `SERVER_IPV4` in the result formats above
