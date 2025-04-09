@@ -19,7 +19,7 @@ Script also updates System buffer sizes and Process priority for improved perfor
 
 ---
 
-# Commands Examples:
+# Commands:
 
 ## 1️⃣ Example: Default Settings
 
