@@ -102,7 +102,7 @@ sniff:
   tcpPorts: 80,443,8000-9000
   udpPorts: all
 resolver:
-  type: https
+  type: tls
   tcp:
     addr: 8.8.8.8:53
     timeout: 4s
